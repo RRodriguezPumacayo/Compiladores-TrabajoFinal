@@ -1,0 +1,2 @@
+1. Limitar la compilacion de C++:
+El compilador solo podra manejar estructuras de control básicas (bucles, condicionales) y operaciones aritmeticas.
